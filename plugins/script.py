@@ -37,11 +37,11 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
     ABOUT_TEXT = """
 **Mʏ ɴᴀᴍᴇ** : [ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ ᴠ4](https://t.me/RAS_File_Sharing_Bot)
 
-**Cʜᴀɴɴᴇʟ** : [NT Bᴏᴛs](https://t.me/RS_Movie)
+**Cʜᴀɴɴᴇʟ** : [RAS COMMUNITY](https://t.me/RS_Movie)
 
 **Sᴏᴜʀᴄᴇ** : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/RS_Movie)
 
-**Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ** : [NT Bᴏᴛs Sᴜᴘᴘᴏʀᴛ](https://t.me/RS_Movie)
+**Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ** : [RAS Sᴜᴘᴘᴏʀᴛ](https://t.me/RS_Movie)
 
 **Dᴀᴛᴀʙᴀsᴇ** : [MᴏɴɢᴏDB](https://cloud.mongodb.com)
 
